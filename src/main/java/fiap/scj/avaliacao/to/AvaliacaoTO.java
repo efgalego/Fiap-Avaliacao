@@ -1,7 +1,11 @@
 package fiap.scj.avaliacao.to;
 
 import java.util.Date;
-
+/**
+ * Classe de transferência que representa um atendimento avaliado.
+ * 
+ * @author Eduardo Galego.
+ */
 public class AvaliacaoTO {
 
 	private Date dataInicio;

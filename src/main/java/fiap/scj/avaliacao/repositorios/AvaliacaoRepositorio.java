@@ -9,7 +9,7 @@ import javax.inject.Named;
 import fiap.scj.avaliacao.to.AvaliacaoTO;
 
 /**
- * Classe respons√°vel por armazenar os hor√°rios livres e agendamentos efetuados.
+ * Classe respons·vel por registrar a avaliaÁ„o de um atendimento.
  * 
  * @author Eduardo Galego
  */

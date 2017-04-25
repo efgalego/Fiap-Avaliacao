@@ -26,7 +26,7 @@ public class AvaliacaoEndpoint {
 				request.getDataFim().toGregorianCalendar().getTime(), 
 				request.getAvaliacao());
 		
-		System.out.println("AvaliaÃ§Ã£o registrada "+ to.toString());
+		System.out.println("Avaliação registrada "+ to.toString());
 	}
 
 }
